@@ -1,0 +1,6 @@
+sionna>=2.1
+torch
+numpy
+scipy
+matplotlib
+jupyter

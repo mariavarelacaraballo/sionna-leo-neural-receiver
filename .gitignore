@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights and large outputs (keep results/figures)
+*.pt
+*.pth
+*.ckpt
+checkpoints/
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
